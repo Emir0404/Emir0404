@@ -27,4 +27,5 @@ Bosnian (native) · English (professional)
 
 ## Contact
 
-puskicemir@gmail.com
+- Email: puskicemir@gmail.com
+- LinkedIn: [linkedin.com/in/emir-puskic](https://www.linkedin.com/in/emir-puskic/)
