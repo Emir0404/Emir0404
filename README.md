@@ -8,6 +8,7 @@ business websites, and I care about the parts that make them dependable: tests, 
 | Project | What it is |
 |---|---|
 | [**Brewline**](https://github.com/Emir0404/Brewline) | Online coffee shop: basket, Stripe checkout with webhooks, atomic stock reservation, admin panel. |
+| [**Voltix**](https://github.com/Emir0404/Voltix) | Tech webshop with admin back office: filters and paging, session cart, atomic stock, light and dark theme, Docker. |
 | [**InvoiceHub**](https://github.com/Emir0404/InvoiceHub) | Multi-user invoicing app: gap-free numbering, VAT per rate, locked sent invoices, PDF export. |
 | [**DentalClinic**](https://github.com/Emir0404/DentalClinic) | Dental clinic website with online booking and an admin panel (Bosnian-language demo). |
 | [**ZarGym**](https://github.com/Emir0404/ZarGym) | One-page gym website. [Live demo](https://zar-teretana-demo.puskicemir.workers.dev) |
